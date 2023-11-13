@@ -6,3 +6,4 @@ Rodrigo Rivas (https://github.com/Rodroy019/rodroy019.github.io)<br>
 Ele Villar (https://github.com/dieherram/elevillar.github.io)<br>
 <br>
 Contribuciones recibidas por parte de compañeros:<br>
+Constanza Pérez https://github.com/constanzaperez0215
